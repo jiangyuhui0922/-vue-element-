@@ -1,4 +1,4 @@
-# 前言
+# （此为转载项目）
 
 [README in English](README-en.md)
 
